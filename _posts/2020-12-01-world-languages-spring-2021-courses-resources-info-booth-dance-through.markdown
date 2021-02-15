@@ -5,10 +5,10 @@ date:   2020-12-01 10:00:00 +0800
 categories: events
 classes: wide
 excerpt: ""
-header:
-  image: /assets/images/spring_2021_courses.jfif
 
 ---
+
+{% include figure image_path="/assets/images/spring_2021_courses.jfif" alt="Event poster" %}
 
 Want to learn about Spring 2021 language courses, minor in Chinese/other languages, placements, Intro to Linguistics, our faculty, and general language and linguistics resources on campus? Follow our multilingual playlist and stop by at our booth during lunchtime to learn about the Department of World Languages and our Language & Linguistics Club!
 

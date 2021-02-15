@@ -5,10 +5,10 @@ date:   2020-10-21 10:00:00 +0800
 categories: events
 classes: wide
 excerpt: ""
-header:
-  image: /assets/images/tips_tricks.jfif
-
 ---
+
+{% include figure image_path="/assets/images/tips_tricks.jfif" alt="Event poster" %}
+
 
 Is there a language that you're interested in learning, but you don't know how to start? Are you having difficulty in your language class? Do you speak a language, but still get lost in conversation? With the resources we have at the touch of our fingertips, language learning is easier than ever before, but it also can be overwhelming.
 
