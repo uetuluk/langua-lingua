@@ -3,6 +3,7 @@ layout: single
 title: About Us
 permalink: /about/
 author_profile: true
+classes: wide
 ---
 
 Our Mission:
