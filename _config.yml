@@ -102,9 +102,9 @@ author:
   location         : "NYU Shanghai"
   email            : shanghai.language.club@nyu.edu
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "shanghai.language.club@nyu.edu"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "shanghai.language.club@nyu.edu"
     # - label: "Website"
       # icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
