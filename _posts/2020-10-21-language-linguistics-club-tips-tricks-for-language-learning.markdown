@@ -5,6 +5,8 @@ date:   2020-10-21 10:00:00 +0800
 categories: events
 classes: wide
 excerpt: ""
+header:
+    og_image: /assets/images/spring_2021_courses.jfif
 ---
 
 {% include figure image_path="/assets/images/tips_tricks.jfif" alt="Event poster" %}
