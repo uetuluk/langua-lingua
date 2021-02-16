@@ -6,7 +6,7 @@ categories: events
 classes: wide
 excerpt: ""
 header:
-    og_image: /assets/images/spring_2021_courses.jfif
+    og_image: /assets/images/tips_tricks.jfif
 ---
 
 {% include figure image_path="/assets/images/tips_tricks.jfif" alt="Event poster" %}
