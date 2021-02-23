@@ -5,8 +5,8 @@ date:  2021-02-23 08:01:28 +0800
 categories: events
 classes: wide
 excerpt: ""
-header:    
-	og_image: https://images.collegiatelink.net/clink/images/d23b5866-0e35-4fca-b5cf-08056ee3662b908582a9-c75a-45ba-9aca-36677c8352bf.png?preset=med-w  
+header:    
+	og_image: https://images.collegiatelink.net/clink/images/d23b5866-0e35-4fca-b5cf-08056ee3662b908582a9-c75a-45ba-9aca-36677c8352bf.png?preset=med-w  
 ---
 
 {% include figure image_path="https://images.collegiatelink.net/clink/images/d23b5866-0e35-4fca-b5cf-08056ee3662b908582a9-c75a-45ba-9aca-36677c8352bf.png?preset=med-w" alt="Event poster" %}
